@@ -10,67 +10,57 @@ const About = () => {
           <li>
             <div class="direction-l">
               <div class="flag-wrapper">
+                <span class="flag wbg">July 2016</span>
+                <span class="time-wrapper hide">
+                  <span class="time">2012 - 2016</span>
+                </span>
+              </div>
+              <div class="desc">
+                Graduated from De Montfort University with 1st Class Honours in
+                Business & Management with Erasmus+ year abroad at KU Lueven,
+                Brussels
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="direction-r">
+              <div class="flag-wrapper">
+                <span class="flag wbg">September 2016</span>
+                <span class="time-wrapper hide">
+                  <span class="time">2016 - 2021</span>
+                </span>
+              </div>
+              <div class="desc">
+                Joined FDM Group as a PMO Consultant. Undertook assignments for
+                Virgin Media, HMCTS & HSBC Private Banking as a PMO/Business
+                Analyst.
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="direction-l">
+              <div class="flag-wrapper">
+                <span class="flag xl">October 2021 </span>
+                <span class="time-wrapper hide">
+                  <span class="time">2021 - 2022</span>
+                </span>
+              </div>
+              <div class="desc">
+                Enrolled in Northcoders 12 week full stack software development
+                course. Created a Fridge Tracker App using Machine Learning.
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="direction-r">
+              <div class="flag-wrapper">
                 <span class="flag wbg">April 2022</span>
                 <span class="time-wrapper hide">
-                  <span class="time">2011 - 2013</span>
+                  <span class="time">2022 - 2022</span>
                 </span>
               </div>
               <div class="desc">
-                WooCommerce integration, release of Point of Sale system
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="direction-r">
-              <div class="flag-wrapper">
-                <span class="flag wbg">March 2022</span>
-                <span class="time-wrapper hide">
-                  <span class="time">2013 - present</span>
-                </span>
-              </div>
-              <div class="desc">
-                WooCommerce integration, release of Point of Sale system
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="direction-l">
-              <div class="flag-wrapper">
-                <span class="flag xl">May 2022 </span>
-                <span class="time-wrapper hide">
-                  <span class="time">2011 - 2013</span>
-                </span>
-              </div>
-              <div class="desc">
-                WooCommerce integration, release of Point of Sale system
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="direction-r">
-              <div class="flag-wrapper">
-                <span class="flag wbg">June 2022</span>
-                <span class="time-wrapper hide">
-                  <span class="time">2008 - 2011</span>
-                </span>
-              </div>
-              <div class="desc">
-                Shopify integration, Cometa Token private sale for early
-                investors and ICO
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="direction-l">
-              <div class="flag-wrapper">
-                <span class="flag wbg">July</span>
-                <span class="time-wrapper hide">
-                  <span class="time">2011 - 2013</span>
-                </span>
-              </div>
-              <div class="desc">
-                Shopify integration, Cometa Token private sale for early
-                investors and ICO
+                Starting my first Software Engineering role
               </div>
             </div>
           </li>
