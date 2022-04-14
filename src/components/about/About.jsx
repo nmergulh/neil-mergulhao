@@ -1,10 +1,17 @@
 import React from "react";
 import "./about.scss";
+import leftimage from "../../img/presenting.jpeg";
 
 const About = () => {
   return (
     <div className="about">
-      <div className="background-image"></div>
+      <div className="background-image-left">
+        <img
+          className="background-image"
+          src={leftimage}
+          alt="presenting"
+        ></img>
+      </div>
       <div className="timeline-right">
         <ul class="timeline">
           <li>
